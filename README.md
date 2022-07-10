@@ -1,6 +1,7 @@
 ### Hi there, I'm Adriel  👋
 
-- 🔭 I’m currently working as Fullstack and Mobile Developer
-- 🌱 I’m learning TypeScript and Adonis.JS
-- 😄 Pronouns: He/His
+🔭 I’m working as Fullstack and Mobile Developer
+📱 Learning React Native & RealmDB, with offline first architecture.  
+
+😄 Pronouns: He/His
 
